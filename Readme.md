@@ -1,8 +1,7 @@
 # Guía para Exportar Correos de Outlook Correctamente
 ## Requisitos:
 
-    PowerShell 7: Incluido en la carpeta Instalar.
-    Permisos de Administrador: Necesarios para instalar PowerShell 7.
+[Powershell 7](https://learn.microsoft.com/es-es/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4).
 
 ## Primeros Pasos:
 
